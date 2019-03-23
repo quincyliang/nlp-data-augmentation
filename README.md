@@ -9,8 +9,7 @@
 
 - General 
   - random insertion, deletion, word, sentence shuffling
-- Replacing words with synonyms
-  - word embedding,  POS-tag, [link](https://github.com/KonstantinHemker/NLP-data-augmentation)
+- [Replacing words with synonyms](https://github.com/KonstantinHemker/NLP-data-augmentation)
 - Perturbations (letter, word, or sentence level)
   - [noisemix](https://github.com/noisemix/noisemix)
 - Language model
