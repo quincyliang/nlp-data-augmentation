@@ -3,9 +3,7 @@
 ## Overview
 
 - [Task-independent data augmentation for NLP](http://blog.aylien.com/research-directions-at-aylien-in-nlp-and-transfer-learning/)
-- [Robust, Unbiased Natural Language Processing](https://drive.google.com/file/d/1JhZKKCJjIDIqZdwRL0GEUcrWxscLS87l/view) [pdf]()
-
-
+- [Robust, Unbiased Natural Language Processing](https://drive.google.com/file/d/1JhZKKCJjIDIqZdwRL0GEUcrWxscLS87l/view) [pdf](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/robust%20training.pdf)
 
 ## Methods
 
