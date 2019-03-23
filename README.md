@@ -27,7 +27,7 @@
     - check whether each n-gram exists as a wikipedia article to create a set of ‘candidate links’
     - prune the candidate links by computing the similarity of the input text and the abstract of each candidate
 
--  Machine Translation
+- Machine Translation
   - [low-resource parallel corpuses](https://github.com/fsxfreak/nlp-augment)
   - [back-traslation](https://research.fb.com/publications/understanding-back-translation-at-scale/)
 
