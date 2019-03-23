@@ -10,6 +10,8 @@
 - General 
   - random insertion, deletion, word, sentence shuffling
 - [Replacing words with synonyms](https://github.com/KonstantinHemker/NLP-data-augmentation)
+- Replace the words from dicitionary of the same label
+  - [NER](https://zhuanlan.zhihu.com/p/43061858)
 - Perturbations (letter, word, or sentence level)
   - [noisemix](https://github.com/noisemix/noisemix)
 - Language model
