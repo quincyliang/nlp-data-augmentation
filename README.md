@@ -1,13 +1,13 @@
 # NLP Data Augmentaion
 
-##Overview
+## Overview
 
 - [Task-independent data augmentation for NLP](http://blog.aylien.com/research-directions-at-aylien-in-nlp-and-transfer-learning/)
 - [Robust, Unbiased Natural Language Processing](https://drive.google.com/file/d/1JhZKKCJjIDIqZdwRL0GEUcrWxscLS87l/view) [pdf]()
 
 
 
-##Methods
+## Methods
 
 - Replacing words with synonyms
   - word embedding,  POS-tag, [link](https://github.com/KonstantinHemker/NLP-data-augmentation)
