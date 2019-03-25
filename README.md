@@ -31,4 +31,4 @@
   - [fountain](https://github.com/tzano/fountain)
 - Reading Comprehension 
   - [Entity replacement and permutation](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
-  - hard negative
+  - [hard negative](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
