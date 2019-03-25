@@ -29,3 +29,5 @@
     - prune the candidate links by computing the similarity of the input text and the abstract of each candidate
 - Conversational Systems
   - [fountain](https://github.com/tzano/fountain)
+- Reading Comprehension 
+  - [Entity replacement and permutation](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
