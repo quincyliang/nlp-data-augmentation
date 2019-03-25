@@ -17,10 +17,10 @@
 - Language model
   - [Contextual augmentation](https://github.com/pfnet-research/contextual_augmentation)
 - Back translation
-  - [machine traslation](https://research.fb.com/publications/understanding-back-translation-at-scale/)
+  - [Machine traslation](https://research.fb.com/publications/understanding-back-translation-at-scale/)
 - Round-trip translation
   - [Paraphasing](https://github.com/PavelOstyakov/toxic/blob/master/tools/extend_dataset.py)
-  - [low-resource parallel corpuses](https://github.com/fsxfreak/nlp-augment)
+  - [Low-resource parallel corpuses](https://github.com/fsxfreak/nlp-augment)
   - [中文文本纠错任务](https://liweinlp.com/?p=5000)
 - [Leverage External Data](https://forums.fast.ai/t/data-augmentation-for-nlp/229/11)
   - Using external data derived from Wikipedia. linking wikipedia articles to arbitrary input text. The idea is that if the input text were on Wikipedia, it would have links to other Wikipedia articles (that are semantically related and provide additional info).
@@ -31,4 +31,4 @@
   - [fountain](https://github.com/tzano/fountain)
 - Reading Comprehension 
   - [Entity replacement and permutation](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
-  - [hard negative](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
+  - [Generate strong negatives](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
