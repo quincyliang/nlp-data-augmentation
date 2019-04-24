@@ -32,3 +32,10 @@
 - Reading Comprehension 
   - [Entity replacement and permutation](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
   - [Generate strong negatives based on POS tags](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
+
+
+
+## Library
+- [nlaug](https://github.com/makcedward/nlpaug)
+
+  
