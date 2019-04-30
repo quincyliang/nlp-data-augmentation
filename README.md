@@ -1,5 +1,12 @@
 # NLP Data Augmentaion
 
+## Paper
+
+- [Unsupervised Data Augmentation](https://128.84.21.199/pdf/1904.12848.pdf) 
+
+
+
+
 ## Overview
 
 - [Task-independent data augmentation for NLP](http://blog.aylien.com/research-directions-at-aylien-in-nlp-and-transfer-learning/)
