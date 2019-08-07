@@ -1,10 +1,9 @@
 # NLP Data Augmentaion
 
 ## Paper
-
 - [Unsupervised Data Augmentation](https://128.84.21.199/pdf/1904.12848.pdf) 
-
-
+- [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/pdf/1906.04980.pdf)
+- [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf)
 
 
 ## Overview
@@ -39,7 +38,6 @@
 - Reading Comprehension 
   - [Entity replacement and permutation](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
   - [Generate strong negatives based on POS tags](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
-
 
 
 ## Library
