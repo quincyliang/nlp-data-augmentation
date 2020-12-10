@@ -5,6 +5,7 @@
 - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/pdf/1906.04980.pdf)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf)
 - [How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://arxiv.org/abs/2010.01764?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations](https://www.aclweb.org/anthology/2020.acl-main.263.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 ## Overview
@@ -44,6 +45,7 @@
 
 
 ## Library
+- [TextAttack](https://github.com/QData/TextAttack)
 - [nlaug](https://github.com/makcedward/nlpaug)
 
  
