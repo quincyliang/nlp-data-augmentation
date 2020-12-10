@@ -4,10 +4,11 @@
 - [Unsupervised Data Augmentation](https://128.84.21.199/pdf/1904.12848.pdf) 
 - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/pdf/1906.04980.pdf)
 - [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf)
+- [How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://arxiv.org/abs/2010.01764?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 ## Overview
-
+- [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [Task-independent data augmentation for NLP](http://blog.aylien.com/research-directions-at-aylien-in-nlp-and-transfer-learning/)
 - [Robust, Unbiased Natural Language Processing](https://drive.google.com/file/d/1JhZKKCJjIDIqZdwRL0GEUcrWxscLS87l/view) [pdf](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/robust%20training.pdf)
 
@@ -40,7 +41,10 @@
   - [Generate strong negatives based on POS tags](https://github.com/quincyliang/nlp-data-augmentation/blob/master/materials/jdevlin.pdf)
 
 
+
+
 ## Library
 - [nlaug](https://github.com/makcedward/nlpaug)
 
-  
+ 
+
